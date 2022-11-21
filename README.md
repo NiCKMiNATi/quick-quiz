@@ -1,2 +1,2 @@
 # quick-quiz
-This is a simple Quiz App built with HTML, CSS and JavaScript.
+I have built a website for a quick quiz, with the help of HTML, CSS and JavaScript. Please go through the files and download them if you need them. Thank you for your time.
